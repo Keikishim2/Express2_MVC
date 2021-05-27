@@ -1,5 +1,3 @@
-const user = require("../controllers/Users");
-const DB = require('../config');
 
 class User{
     fetch_heart(callback){

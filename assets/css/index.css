@@ -1,0 +1,43 @@
+body{
+    background: url('https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif'), rgb(18, 1, 31);
+    background-blend-mode: screen;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+.wrapper{
+    border: 5px inset darkgoldenrod;
+    background: url('https://lh3.googleusercontent.com/proxy/6oGzxyEQYQ4p4Bd6niuYMUTdXP1F9I4Duc2WQQYDD1IYYeOFetcTCwjdiODxkWVg9cb_zQ0UKA1Uejl0hrYYeoTJtJj1se0Gu2slrMC-zG6B5FbDR1AYRICDxRGvXHUeabDVjLoZqNzuVh8OpENWeRq3LInYLPIc6UDs4qv7weXGHJdDXb_7Jfbhd0MxdQ4gzWY'), radial-gradient(circle, rgb(140, 0, 255) 0%, rgb(67, 2, 110) 100%);
+    background-blend-mode: hard-light;
+    background-size: contain;
+    margin: 0 auto;
+    width: 500px;
+    color: goldenrod;
+    transform: translate(0%, 100%);
+    padding: 10px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    box-shadow: 10px 20px goldenrod;
+}
+input{
+    display: inline-block;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    height: 30px;
+}
+#btn{
+    display: block;
+    margin: 0 auto;
+    background: url('https://lh3.googleusercontent.com/proxy/wvQ33ycmeK2aLPrichNGp3eTLkodgop_H6Zc8bd9ZYm8UiqjGN9ycAwDQBmpNFXyVoTfpZop8fCSIrK5XT3HSLsxiFIf1V-RjXIGPFHrFI4ijuLPf4DEKMXJeF-2mxzgisJXbXEEKXQC6alDkVeNyy5DRHxOqsM=s0-d'), goldenrod;
+    background-blend-mode: soft-light;
+    background-size: contain;
+    color: black;
+    padding: 5px;
+    width: 80px;
+    font-weight: 600;
+}
+h1{
+    font-weight: bolder;
+    font-size: 30px;
+    margin-bottom: 80px;
+}
